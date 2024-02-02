@@ -1,5 +1,6 @@
 
-Java Practical Assessment 2
+#Java Practical Assessment 2
+
 Write a function called isSixtyFive that takes 2 numbers as input.
 If either of the numbers is 65, or if the sum of the numbers is 65 then return a boolean true. Otherwise, return false.
 Make sure you know what a boolean is, if you return a string then that would be incorrect.
